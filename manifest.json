@@ -1,0 +1,19 @@
+{
+  "name": "Hac13 player",
+  "description": "what is item game player",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [ "https://what-the-item.k.avito.ru/" ],
+      "js": [ "index.js" ]
+    }
+  ],
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "128": "icon128.png"
+  }
+}
