@@ -10,13 +10,6 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@tensorflow-models/knn-classifier": "^1.2.4",
-    "@tensorflow-models/mobilenet": "^2.1.0",
-    "@tensorflow/tfjs-backend-cpu": "^3.18.0",
-    "@tensorflow/tfjs-backend-webgl": "^3.18.0",
-    "@tensorflow/tfjs-core": "^3.18.0"
-  },
   "devDependencies": {
     "@babel/core": "^7.18.5",
     "@babel/preset-env": "^7.18.2",

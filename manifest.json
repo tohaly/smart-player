@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "content_scripts": [
     {
-      "matches": [ "https://what-the-item.k.avito.ru/" ],
+      "matches": ["https://what-the-item.k.avito.ru/"],
       "js": [ "index.js" ]
     }
   ],
